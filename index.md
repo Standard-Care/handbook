@@ -18,9 +18,11 @@ Becuase a revolution in healthcare is needed, but it's going to come from a blen
    - Engagement and KPI datawarehouse that allows vendors to retain control of their proprietary data   
 
 ##### Services
-For strategic accounts, we offer Regulatory and/or Quality consulting services, or “RaaS” and “QaaS” respectively). Through the Quality services, we provide support to companies as they set up their QMS and train their users. We can also provide internal audit support to help ensure they are ready for FDA inspections and Notified Body (the FDA equivalents in the European Union) audits. 
+- Customer Success & Onboarding - tiered according to service contracts
+- Technical marketing & educaiton - we have contract with a firm that helps vendors package their offering for maximum impact
+- Actuaries - A partnership to help vendors and buyers stratify risk and evaluate ROI of solutions
+- Regulatory & compliance - Occassionally vendors may need ISO or FDA support; we have a deep network for partnerships in this space.
 
-As part of our regulatory services, we can help companies prepare their pre-submissions and full submissions for the FDA or a Notified Body. 
 
 #### How We Operate
 We are a remote first organization. Processes and tooling are set up to ensure a high level of transparency and accountability across the organization, regardless of whether an employee is on-site or remote. 
@@ -29,10 +31,10 @@ Employees local to the SF Bay Area have the option to work from HQ. However, emp
 
 For the 100% remote team members, they can work from anywhere during business hours as long as they are available online for calls. 
 
-#### Performance Management (aka Objectives & Keys Results, OKRs)
-* Each quarter the team will develop and publish OKRs
-* Updates will be made as appropriate as the quarter ensues.
-* All-hands meetings that are typically bi-weekly include OKR progress updates, announcements, discussions of hot topics, and an open Q&A forum.
+#### Performance Management
+* Monthly we will revise SMART goals for teams and individuals. Are are too nascent for a formal ORK system.
+* Updates will be made continuosly and confirmed in manager 1:1s
+* All-hands meetings that are fornightly include OKR progress updates, announcements, discussions of hot topics, and an open Q&A forum.
 
 ##### Individual Performance Review
    As per best practices and quality system procedures leadership continuously assesses competence. This is a suggested agenda for routine 1-on-1 meetings:
