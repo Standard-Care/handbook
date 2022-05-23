@@ -59,19 +59,22 @@ For the 100% remote team members, they can work from anywhere during business ho
 
 Our employees work varied hours from many global locations. This creates several asynchronous workflows that we strive to use to our advantage and allows great autonomy for individual contributors. Team and all-hands meetings are generally clustered during centralized ‘core hours’ so all who are needed can attend as per their normal work schedules.
 
-We believe HIGHLY in the lesson of [this cartoon](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/) by [@detly](https://github.com/detly)
+Internalize the lesson of [this cartoon](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/) by [@detly](https://github.com/detly)
 
-It’s far better for everyone’s concentration and sanity if we collaborate as though most things will get an answer eventually, but not necessarily right this second. The preferred first choice of action should be to post a message, a to-do, or a document about what we need explained or need to know. Then others can respond when they’re available.
+It's better for everyone’s concentration and sanity if we collaborate as though most things will get an answer eventually, but not immediately. The preferred first choice of action should be to post a message, a to-do, or a document about what we need explained or need to know. Then others can respond when they’re available.
 
-There are exceptions. Extended, synchronous collaborations sometimes are needed. We use Slack, Zoom, and in-person collaboration when appropriate. 
+There are exceptions. Live collaboration is sometimes needed for intricate design or to just spend time with another human processing a problem.
 
-Teams that collaborate heavily should plan for more overlap. Async should bias for deep (aka Deep Work) concentration time, thereby improving productivity.
+Teams that collaborate heavily should plan for more overlap. Async generally should bias for "Deep Work" to improve santiy and productivity.
 
 * Communication Norms    
 We use Slack as our main tool for communication. During their respective business hours, all employees should be available via Slack. 
 
 * AFK (Away From Keyboard)    
 Life happens, just notify your team on Slack and/or via the Shared calendar that you won’t be available and for approximately how long.
+
+* #signoff
+Async, remote teams have struggled to find a meeting schedule that works for deep work across timezones. We are borrowing the #signoff channel. Rather than a stand-up in the morning (since it's different for everyone). Post an updates in #signoff of what you completed that day along with a heads up on blockers and if you like a link to a GitHub issue or pull request you would like reviewed by the next morning.
 
 #### IRL (In Real Life)
 We will host in-person gatherings as budget and public health emergencies permit. 
@@ -88,9 +91,7 @@ To successfully build our product, there are several tools we use on a daily bas
 
 
 **Product Development**
-
  - Figma - a 2D design tool we use to create user interface mocks for our product.
-
  - Github - We have routine calls where we groom, review, and plan sprint tasks from the Github board. 
 
 **Customer Operations & Marketing**
@@ -104,13 +105,12 @@ To successfully build our product, there are several tools we use on a daily bas
 * Memorial Day (Last Monday in May)
 * Independence Day (July 4) (Observed Friday July 3rd in 2020)
 * Labor Day (First Monday in September)
-* Veterans Day (November 11)
 * Thanksgiving Day (Fourth Thursday in November)
     * Day After Thanksgiving
 * Christmas Day (December 25)
 
 ##### On-call Period
-* The roughly two weeks spanning Christmas & New Years
+* Approximately two weeks spanning Christmas & New Years
 * During this time employees are encouraged to be home or at a rejuvenating destination
     * Employees will maintain access via Slack, laptop & WiFi in case of work emergency
     * Key resources in Engineering & Customer Support may work full hours as needed
