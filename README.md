@@ -1,10 +1,12 @@
-#### Reading the Handbook
-* This is the direct "code" in the open source repository: https://github.com/Standard-Care/handbook
+
+#### [Click HERE to read the hadnbook](https://github.com/Standard-Care/handbook/blob/master/index.md) 
 
 #### Using this Handbook
-This handbook provides an overview of our company, what drives us, and how we operate. After reading this handbook, reach out to your manager to clarify any questions you may have. We have done our best to give you a glimpse inside; let us know if you feel something is missing. 
+
+This handbook provides an overview of our company, what drives us, and how we operate. After reading this handbook, reach out to your manager to clarify any questions you may have. Please create an issue to request additions or corrections. We have done our best to succintfly cover all bases. 
    * Create an issue
    * [Link: Guide on how to Edit files](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
-
-Thanks!
-- Standard Care Team
+ 
+With gratitude,
+Ryan Stellar (@rstellar)
+CEO & Founder
