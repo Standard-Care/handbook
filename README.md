@@ -1,5 +1,5 @@
 
-#### [Click HERE to read the hadnbook](https://github.com/Standard-Care/handbook/blob/master/index.md) 
+#### [Click HERE to read the handbook](https://github.com/Standard-Care/handbook/blob/master/index.md) 
 
 #### Using this Handbook
 
